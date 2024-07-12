@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "647928878961",
+    "project_id": "react-native-default",
+    "storage_bucket": "react-native-default.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647928878961:android:7e15db107f76d5257288d0",
+        "android_client_info": {
+          "package_name": "com.blacklava.defaultrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647928878961-5dpijc5b5o1bi5fblgs3a2pv6esh9bfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blacklava.defaultrn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "647928878961-2350iksb32ar7k4j5n9gk9dfa5rq692q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5a08KPempx5ho4hBtb43Gakj94Fw0IrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647928878961-2350iksb32ar7k4j5n9gk9dfa5rq692q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647928878961-ihd97a6adkigi2ntg8u8osjv7i0cd9vf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blacklava.defaultrn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
